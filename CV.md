@@ -1,6 +1,5 @@
 # Sajjad Toghiani (PhD)
------------------------
-* Animal Scientist (Quantitative Geneticist)*
+*Animal Scientist (Quantitative Geneticist)*
 -----------------------
 [Email](mailto:sajjad.toghiani@usda.gov) / 
 [LinkedIn](https://www.linkedin.com/in/sajjad-toghiani-7bab9552/) / 
@@ -8,6 +7,7 @@
 [Researchgate](https://www.researchgate.net/profile/Sajjad-Toghiani/) / 
 [GoogleScholar](https://scholar.google.com/citations?user=H9PqUOEAAAAJ&hl=en)/
 
+[![GitHub](https://raw.githubusercontent.com/nilforooshan/nilforooshan.github.io/master/images/githubicon.png  "GitHub")](https://github.com/nilforooshan)
 
 [![Github](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/stghn/)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sajjad-toghiani-7bab9552/)
@@ -16,8 +16,7 @@
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=MicrosoftOutlook&logoColor=white&style=for-the-badge)](mailto:sajjad.toghiani@usda.gov)
 
 
-
-##Profile
+## Profile
 ---------
 
 Sajjad is an Animal Scientist at <a href="https://www.ars.usda.gov/people-locations/person?person-id=55652/" target="_blank">USDA in Animal Genomics and Improvement
@@ -27,7 +26,7 @@ the quantitative and molecular genetic approach to optimize the health
 and productivity of livestock and promote the development of sustainable
 and profitable farms.
 
-##Education
+## Education
 -----------
 
 **PhD** *University of Georgia (Athens, GA, USA)*              2015-2018
@@ -50,7 +49,7 @@ and profitable farms.
         *Department of Animal Science*
          Majored in **Animal Science**
 
-##Professional Experience
+## Professional Experience
 -------------------------
 
 **USDA-ARS-AGIL -- Beltsville, MD, USA** 
@@ -61,7 +60,7 @@ March 2020 -- Present
 * Postdoctoral Research Fellow as Geneticist*  
 October 2018 -- March 2020
 
-##Research Experience
+## Research Experience
 ---------------------
 
 **University of Georgia**, 

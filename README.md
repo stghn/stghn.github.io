@@ -1,5 +1,5 @@
 # Sajjad Toghiani (PhD)  <br />
-*Animal Scientist (Quantitative Geneticist)*  <br />
+### *Animal Scientist (Quantitative Geneticist)*  <br />
 
 <!--
 [Email](mailto:sajjad.toghiani@usda.gov) / 
@@ -118,13 +118,13 @@ September 2005 -- September 2007   <br />
 - **Toghiani, S**. (2012). Quantitative Genetic Application in the Selection Process for Livestock Production. In Livestock Production. InTech.
 
 ## Honors and Awards
-- PhD graduate assistantship awarded by USDA-ARS Livestock and Range Research Laboratory (Miles city, MT)
-- M.S. graduate assistantship awarded by department of Animal and Dairy science (University of Georgia)
+- **PhD graduate assistantship** awarded by USDA-ARS Livestock and Range Research Laboratory (Miles city, MT)
+- **Master graduate assistantship** awarded by department of Animal and Dairy science (University of Georgia)
 
 ## Computer Skills
 **Programming:** Fortran, SAS, R, Python, Unix shell scripting, Git and Github  <br />
 **Applications:** MS office (Word, Excel, PowerPoint, Outlook)  <br />
-**Analysis Tools:** Plink *(GWAS analysis software)*, Gensel *(Bayesian method for GS/GWAS analysis)*, Blupf90 family *(Genetic/Genomic evaluation)*, QMsim *(QTL and marker simulator for livestock populations)*, FImpute *(Genotype imputation tool)*,Bioconductor *(Statistical and graphical methods for analyzing genomic data)*, Admixture *(A tool to estimate individual ancestry from SNP genotype datasets)*
+**Analysis Tools:** **Plink** *(GWAS analysis software)*, **Gensel** *(Bayesian method for GS/GWAS analysis)*, **Blupf90 family** *(Genetic/Genomic evaluation)*, **QMsim** *(QTL and marker simulator for livestock populations)*, **FImpute** *(Genotype imputation tool)*,**Bioconductor** *(Statistical and graphical methods for analyzing genomic data)*, **Admixture** *(A tool to estimate individual ancestry from SNP genotype datasets)*
 
 
 #### Resume: [[HTML](https://stghn.github.io/)] [[DOC](Curriculum_Vitae.docx)]

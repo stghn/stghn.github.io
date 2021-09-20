@@ -127,3 +127,5 @@ September 2005 -- September 2007   <br />
 **Analysis Tools:** Plink *(GWAS analysis software)*, Gensel *(Bayesian method for GS/GWAS analysis)*, Blupf90 family *(Genetic/Genomic evaluation)*, QMsim *(QTL and marker simulator for livestock populations)*, FImpute *(Genotype imputation tool)*,Bioconductor *(Statistical and graphical methods for analyzing genomic data)*, Admixture *(A tool to estimate individual ancestry from SNP genotype datasets)*
 
 
+#### Resume: [[HTML](https://stghn.github.io/)] [[DOC](Curriculum_Vitae.docx)]
+

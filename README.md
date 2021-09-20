@@ -117,6 +117,9 @@ September 2005 -- September 2007   <br />
 ### Book Chapters
 - **Toghiani, S**. (2012). Quantitative Genetic Application in the Selection Process for Livestock Production. In Livestock Production. InTech.
 
+## Editorial Activities
+Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection" target="_blank">Reducing the Environmental Footprint of Livestock Through Genomic Selection</a>.
+
 ## Honors and Awards
 - **PhD graduate assistantship** awarded by USDA-ARS Livestock and Range Research Laboratory (Miles city, MT)
 - **Master graduate assistantship** awarded by department of Animal and Dairy science (University of Georgia)

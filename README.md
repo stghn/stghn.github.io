@@ -1,19 +1,20 @@
-# Sajjad Toghiani (PhD)
-*Animal Scientist (Quantitative Geneticist)*
------------------------
+# Sajjad Toghiani (PhD)  <br />
+*Animal Scientist (Quantitative Geneticist)*  <br />
+
+<!--
 [Email](mailto:sajjad.toghiani@usda.gov) / 
 [LinkedIn](https://www.linkedin.com/in/sajjad-toghiani-7bab9552/) / 
 [GitHub](https://github.com/stghn/) / 
 [Researchgate](https://www.researchgate.net/profile/Sajjad-Toghiani/) / 
 [GoogleScholar](https://scholar.google.com/citations?user=H9PqUOEAAAAJ&hl=en)/
+-->
 
-
-[![Github](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/stghn/)
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sajjad-toghiani-7bab9552/)
-[![Researchgate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white&style=for-the-badge)](https://www.researchgate.net/profile/Sajjad-Toghiani/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:stoghiani@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=MicrosoftOutlook&logoColor=white&style=for-the-badge)](mailto:sajjad.toghiani@usda.gov)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sajjad-toghiani-7bab9552/)
+[![Researchgate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white&style=for-the-badge)](https://www.researchgate.net/profile/Sajjad-Toghiani/)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-4285F4?logo=GoogleScholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=H9PqUOEAAAAJ&hl=en)
+[![Github](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/stghn/)
 
 
 ## Profile

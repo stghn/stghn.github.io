@@ -1,5 +1,5 @@
 # Sajjad Toghiani (PhD)  <br />
-### *Animal Scientist (Quantitative Geneticist)*  <br />
+### *Research Geneticist*  <br />
 
 <!--
 [Email](mailto:sajjad.toghiani@usda.gov) / 
@@ -18,7 +18,7 @@
 
 
 ## Profile
-Sajjad is an Animal Scientist at <a href="https://www.ars.usda.gov/people-locations/person?person-id=55652/" target="_blank">USDA in Animal Genomics and Improvement Laboratory</a> with a background in animal breeding and genetics. His main interests and strengths in the fields are focused on the application of the quantitative and molecular genetic approach to optimize the health and productivity of livestock and promote the development of sustainable and profitable farms. 
+Sajjad is an Research Geneticist (Animals) at <a href="https://www.ars.usda.gov/people-locations/person?person-id=55652/" target="_blank">USDA in Animal Genomics and Improvement Laboratory</a> with a background in animal breeding and genetics. His main interests and strengths in the fields are focused on the application of the quantitative and molecular genetic approach to optimize the health and productivity of livestock and promote the development of sustainable and profitable farms. 
 
 
 ## Education
@@ -44,8 +44,12 @@ Sajjad is an Animal Scientist at <a href="https://www.ars.usda.gov/people-locati
 
 ## Professional Experience
 **USDA-ARS-AGIL -- Beltsville, MD, USA**   <br />
+*Research Geneticist (Animals)*   <br />
+January 2022 -- Present   <br />
+
+**USDA-ARS-AGIL -- Beltsville, MD, USA**   <br />
 *Animal Scientist*   <br />
-March 2020 -- Present   <br />
+March 2020 -- January 2022   <br />
 
 **USDA-ARS-LRRL -- Miles City, MT, USA**  <br />
 *Postdoctoral Research Fellow as Geneticist*  <br />

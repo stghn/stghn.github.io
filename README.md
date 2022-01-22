@@ -18,7 +18,7 @@
 
 
 ## Profile
-Sajjad is an Research Geneticist (Animals) at <a href="https://www.ars.usda.gov/people-locations/person?person-id=55652/" target="_blank">USDA in Animal Genomics and Improvement Laboratory</a> with a background in animal breeding and genetics. His main interests and strengths in the fields are focused on the application of the quantitative and molecular genetic approach to optimize the health and productivity of livestock and promote the development of sustainable and profitable farms. 
+Sajjad is an Research Geneticist (Animals) at <a href="https://www.ars.usda.gov/people-locations/person?person-id=55652" target="_blank">USDA in Animal Genomics and Improvement Laboratory</a> with a background in animal breeding and genetics. His main interests and strengths in the fields are focused on the application of the quantitative and molecular genetic approach to optimize the health and productivity of livestock and promote the development of sustainable and profitable farms. 
 
 
 ## Education

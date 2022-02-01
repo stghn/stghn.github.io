@@ -75,7 +75,6 @@ September 2005 -- September 2007   <br />
 
 ## Publications
 ### Journal Publications
-
 <div align="justify">
 
 - **Toghiani, S.**, & VanRaden, P. (2021). National Index Correlations and Actual vs. Expected Use of Foreign Sires. Interbull Bulletin, (56), 52-59.
@@ -105,10 +104,10 @@ September 2005 -- September 2007   <br />
 - Foroughi, M., Najafi, P., and **Toghiani, S**. (2011). Trace elements removal from wastewater by Ceratophyllum demersum. Journal of Applied Sciences and Environmental Management, 15(1). 
 - **Toghiani, S**. (2011). Genetic parameters and correlations among linear type traits in the first lactation of Holstein Dairy cows. African Journal of Biotechnology, 10(9), 1507-1510.
 - **Toghiani Pozveh, S**., Shadparvar, A. A., Shahrbabak, M. M., and Taromsari, M. D. (2009). Genetic analysis of reproduction traits and their relationship with conformation traits in Holstein cows. Livestock Science, 125(1), 84-87.
-</div>
-	
-### Conference Proceedings (Poster)
 
+</div>
+
+### Conference Proceedings (Poster)
 <div align="justify">
 
 - Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches, Journal of Animal Science, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
@@ -118,11 +117,11 @@ September 2005 -- September 2007   <br />
 - Sumreddee, P., **S. Toghiani**, S. Aggrey, and R. Rekaya. Joint genome-wide association analysis of continuous and discrete traits. American Society of Animal Science meeting, 2017, Baltimore, Maryland.
 - **Toghiani, S**., L. Chang, and R. Rekaya. Genome wide association in presence of high-density marker panels and genotyped causal variants. The Allied Genetics Conference, 2016, Orlando, Florida.
 - **Toghiani, S**., and R. Rekaya. Multi-generational imputation of SNP genotypes and accuracy of genomic selection. Joint Annual Meeting 2015, Orlando, Florida.
+
 </div>
 
 	
 ### Conference Proceedings (Oral)
-
 <div align="justify">
 
 - **Toghiani, S.,** P. VanRaden. National Index Correlations and Expected vs. Actual Use of Foreign Sires. Interbull Virtual Conference, 2021, Leeuwarden, The Netherlands.
@@ -131,20 +130,21 @@ September 2005 -- September 2007   <br />
 - Chang, LY., **S. Toghiani**, S. Aggrey, and R. Rekaya. Increasing accuracy of genomic selection in presence of high-density marker panels through the prioritization of relevant polymorphisms. American Society of Animal Science meeting, 2017, Baltimore, Maryland.
 - **Toghiani, S**., L. Chang, S. Aggrey, R. Rekaya. SNP filtering using Fst and implications for genome wide association and phenotype prediction. Joint Annual Meeting 2016, Salt Lake City, Utah.
 - Chang, LY., **S. Toghiani**, S. Aggrey, and R. Rekaya. High density marker panels, SNPs prioritizing and accuracy of genomic selection. Joint Annual Meeting 2016, Salt Lake City, Utah.
+
 </div>
 
 ### Book Chapters
-
 <div align="justify">
 
 - **Toghiani, S**. (2012). Quantitative Genetic Application in the Selection Process for Livestock Production. In Livestock Production. InTech.
+
 </div>
 	
 ## Editorial Activities
-
 <div align="justify">
 
 Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection" target="_blank">Reducing the Environmental Footprint of Livestock Through Genomic Selection</a>.
+
 </div>
 	
 ## Honors and Awards
@@ -152,12 +152,12 @@ Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.fronti
 - **Master graduate assistantship** awarded by department of Animal and Dairy science (University of Georgia)
 
 ## Computer Skills
-
 <div align="justify">
 
 **Programming:** Fortran, SAS, R, Python, Unix shell scripting, Git and Github  <br />
 **Applications:** MS office (Word, Excel, PowerPoint, Outlook)  <br />
 **Analysis Tools:** **Plink** *(GWAS analysis software)*, **Gensel** *(Bayesian method for GS/GWAS analysis)*, **Blupf90 family** *(Genetic/Genomic evaluation)*, **QMsim** *(QTL and marker simulator for livestock populations)*, **FImpute** *(Genotype imputation tool)*,**Bioconductor** *(Statistical and graphical methods for analyzing genomic data)*, **Admixture** *(A tool to estimate individual ancestry from SNP genotype datasets)*
+
 </div>
 
 #### Resume: [[HTML](https://stghn.github.io/)] [[DOC](Curriculum_Vitae.docx)]

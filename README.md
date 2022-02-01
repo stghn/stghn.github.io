@@ -75,6 +75,7 @@ September 2005 -- September 2007   <br />
 
 ## Publications
 ### Journal Publications
+
 <div align="justify">
 
 - **Toghiani, S.**, & VanRaden, P. (2021). National Index Correlations and Actual vs. Expected Use of Foreign Sires. Interbull Bulletin, (56), 52-59.
@@ -107,6 +108,7 @@ September 2005 -- September 2007   <br />
 </div>
 	
 ### Conference Proceedings (Poster)
+
 <div align="justify">
 
 - Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches, Journal of Animal Science, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
@@ -120,6 +122,7 @@ September 2005 -- September 2007   <br />
 
 	
 ### Conference Proceedings (Oral)
+
 <div align="justify">
 
 - **Toghiani, S.,** P. VanRaden. National Index Correlations and Expected vs. Actual Use of Foreign Sires. Interbull Virtual Conference, 2021, Leeuwarden, The Netherlands.
@@ -131,12 +134,14 @@ September 2005 -- September 2007   <br />
 </div>
 
 ### Book Chapters
+
 <div align="justify">
 
 - **Toghiani, S**. (2012). Quantitative Genetic Application in the Selection Process for Livestock Production. In Livestock Production. InTech.
 </div>
 	
 ## Editorial Activities
+
 <div align="justify">
 
 Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection" target="_blank">Reducing the Environmental Footprint of Livestock Through Genomic Selection</a>.
@@ -147,6 +152,7 @@ Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.fronti
 - **Master graduate assistantship** awarded by department of Animal and Dairy science (University of Georgia)
 
 ## Computer Skills
+
 <div align="justify">
 
 **Programming:** Fortran, SAS, R, Python, Unix shell scripting, Git and Github  <br />

@@ -75,8 +75,6 @@ September 2005 -- September 2007   <br />
 
 ## Publications
 ### Journal Publications
-<div align="justify">
-
 - **Toghiani, S.**, & VanRaden, P. (2021). National Index Correlations and Actual vs. Expected Use of Foreign Sires. Interbull Bulletin, (56), 52-59.
 - Sumreddee, P., Hay, E. H., **Toghiani, S.**, Roberts, A., Aggrey, S.E., & Rekaya, R. (2021). Grid search approach to discriminate between old and recent inbreeding using phenotypic, pedigree and genomic information. BMC genomics, 22(1), 1-17.
 - Sumreddee, P., **Toghiani, S.**, Hay, E. H., Roberts, A., Aggrey, S.E., and Rekaya, R. (2020). Runs of homozygosity and analysis of inbreeding depression. Journal of Animal Science, 98(12), skaa361.
@@ -107,7 +105,6 @@ September 2005 -- September 2007   <br />
 
 
 ### Conference Proceedings (Poster)
-
 - Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches, Journal of Animal Science, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
 - **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A. J. Genotype by environment interaction in response to cold stress in a composite beef cattle breed. Plant and Animal Genome XXVIII Conference, San Diego, CA, January 11 - 15, 2020.
 - Sumreddee, P., **Toghiani, S**., Hay, E., Roberts, A., Aggrey, S. E., and Rekaya, R. Runs of homozygosity and analysis of inbreeding depression. Plant and Animal Genome XXVIII Conference, San Diego, CA, January 11 - 15, 2020.
@@ -118,7 +115,6 @@ September 2005 -- September 2007   <br />
 
 	
 ### Conference Proceedings (Oral)
-
 - **Toghiani, S.,** P. VanRaden. National Index Correlations and Expected vs. Actual Use of Foreign Sires. Interbull Virtual Conference, 2021, Leeuwarden, The Netherlands.
 - **Toghiani, S**., L. Chang, Hay, E. H., Roberts, S. Aggrey, and R. Rekaya. A hybrid model for genomic selection using prioritized SNPs based on F~ST~ scores in the presence of non-genotyped animals. American Society of Animal Science meeting, 2019, Austin, Texas.
 - **Toghiani, S**., L. Chang, S. Aggrey, and R. Rekaya. A hybrid of prioritized SNP and polygenetic effect method for implementation of genomic selection. American Society of Animal Science meeting, 2017, Baltimore, Maryland.
@@ -128,11 +124,9 @@ September 2005 -- September 2007   <br />
 
 
 ### Book Chapters
-
 - **Toghiani, S**. (2012). Quantitative Genetic Application in the Selection Process for Livestock Production. In Livestock Production. InTech.
 
 ## Editorial Activities
-
 Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection" target="_blank">Reducing the Environmental Footprint of Livestock Through Genomic Selection</a>.
 
 
@@ -146,7 +140,6 @@ Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.fronti
 **Applications:** MS office (Word, Excel, PowerPoint, Outlook)  <br />
 **Analysis Tools:** **Plink** *(GWAS analysis software)*, **Gensel** *(Bayesian method for GS/GWAS analysis)*, **Blupf90 family** *(Genetic/Genomic evaluation)*, **QMsim** *(QTL and marker simulator for livestock populations)*, **FImpute** *(Genotype imputation tool)*,**Bioconductor** *(Statistical and graphical methods for analyzing genomic data)*, **Admixture** *(A tool to estimate individual ancestry from SNP genotype datasets)*
 
-</div>
 
 #### Resume: [[HTML](https://stghn.github.io/)] [[DOC](Curriculum_Vitae.docx)]
 

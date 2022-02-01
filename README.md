@@ -105,10 +105,8 @@ September 2005 -- September 2007   <br />
 - **Toghiani, S**. (2011). Genetic parameters and correlations among linear type traits in the first lactation of Holstein Dairy cows. African Journal of Biotechnology, 10(9), 1507-1510.
 - **Toghiani Pozveh, S**., Shadparvar, A. A., Shahrbabak, M. M., and Taromsari, M. D. (2009). Genetic analysis of reproduction traits and their relationship with conformation traits in Holstein cows. Livestock Science, 125(1), 84-87.
 
-</div>
 
 ### Conference Proceedings (Poster)
-<div align="justify">
 
 - Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches, Journal of Animal Science, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
 - **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A. J. Genotype by environment interaction in response to cold stress in a composite beef cattle breed. Plant and Animal Genome XXVIII Conference, San Diego, CA, January 11 - 15, 2020.
@@ -118,11 +116,8 @@ September 2005 -- September 2007   <br />
 - **Toghiani, S**., L. Chang, and R. Rekaya. Genome wide association in presence of high-density marker panels and genotyped causal variants. The Allied Genetics Conference, 2016, Orlando, Florida.
 - **Toghiani, S**., and R. Rekaya. Multi-generational imputation of SNP genotypes and accuracy of genomic selection. Joint Annual Meeting 2015, Orlando, Florida.
 
-</div>
-
 	
 ### Conference Proceedings (Oral)
-<div align="justify">
 
 - **Toghiani, S.,** P. VanRaden. National Index Correlations and Expected vs. Actual Use of Foreign Sires. Interbull Virtual Conference, 2021, Leeuwarden, The Netherlands.
 - **Toghiani, S**., L. Chang, Hay, E. H., Roberts, S. Aggrey, and R. Rekaya. A hybrid model for genomic selection using prioritized SNPs based on F~ST~ scores in the presence of non-genotyped animals. American Society of Animal Science meeting, 2019, Austin, Texas.
@@ -131,28 +126,21 @@ September 2005 -- September 2007   <br />
 - **Toghiani, S**., L. Chang, S. Aggrey, R. Rekaya. SNP filtering using Fst and implications for genome wide association and phenotype prediction. Joint Annual Meeting 2016, Salt Lake City, Utah.
 - Chang, LY., **S. Toghiani**, S. Aggrey, and R. Rekaya. High density marker panels, SNPs prioritizing and accuracy of genomic selection. Joint Annual Meeting 2016, Salt Lake City, Utah.
 
-</div>
 
 ### Book Chapters
-<div align="justify">
 
 - **Toghiani, S**. (2012). Quantitative Genetic Application in the Selection Process for Livestock Production. In Livestock Production. InTech.
 
-</div>
-	
 ## Editorial Activities
-<div align="justify">
 
 Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection" target="_blank">Reducing the Environmental Footprint of Livestock Through Genomic Selection</a>.
 
-</div>
-	
+
 ## Honors and Awards
 - **PhD graduate assistantship** awarded by USDA-ARS Livestock and Range Research Laboratory (Miles city, MT)
 - **Master graduate assistantship** awarded by department of Animal and Dairy science (University of Georgia)
 
 ## Computer Skills
-<div align="justify">
 
 **Programming:** Fortran, SAS, R, Python, Unix shell scripting, Git and Github  <br />
 **Applications:** MS office (Word, Excel, PowerPoint, Outlook)  <br />

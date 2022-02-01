@@ -108,7 +108,7 @@ September 2005 -- September 2007   <br />
 </div>
 
 ### Conference Proceedings (Poster)
-<div align="justify">
+<div align="justify"> 
 
 - Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches, Journal of Animal Science, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
 - **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A. J. Genotype by environment interaction in response to cold stress in a composite beef cattle breed. Plant and Animal Genome XXVIII Conference, San Diego, CA, January 11 - 15, 2020.

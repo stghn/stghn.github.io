@@ -75,6 +75,7 @@ September 2005 -- September 2007   <br />
 
 ## Publications
 ### Journal Publications
+
 - **Toghiani, S.**, & VanRaden, P. (2021). National Index Correlations and Actual vs. Expected Use of Foreign Sires. Interbull Bulletin, (56), 52-59.
 - Sumreddee, P., Hay, E. H., **Toghiani, S.**, Roberts, A., Aggrey, S.E., & Rekaya, R. (2021). Grid search approach to discriminate between old and recent inbreeding using phenotypic, pedigree and genomic information. BMC genomics, 22(1), 1-17.
 - Sumreddee, P., **Toghiani, S.**, Hay, E. H., Roberts, A., Aggrey, S.E., and Rekaya, R. (2020). Runs of homozygosity and analysis of inbreeding depression. Journal of Animal Science, 98(12), skaa361.
@@ -103,7 +104,6 @@ September 2005 -- September 2007   <br />
 - **Toghiani, S**. (2011). Genetic parameters and correlations among linear type traits in the first lactation of Holstein Dairy cows. African Journal of Biotechnology, 10(9), 1507-1510.
 - **Toghiani Pozveh, S**., Shadparvar, A. A., Shahrbabak, M. M., and Taromsari, M. D. (2009). Genetic analysis of reproduction traits and their relationship with conformation traits in Holstein cows. Livestock Science, 125(1), 84-87.
 
-
 ### Conference Proceedings (Poster)
 
 - Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches, Journal of Animal Science, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
@@ -114,15 +114,15 @@ September 2005 -- September 2007   <br />
 - **Toghiani, S**., L. Chang, and R. Rekaya. Genome wide association in presence of high-density marker panels and genotyped causal variants. The Allied Genetics Conference, 2016, Orlando, Florida.
 - **Toghiani, S**., and R. Rekaya. Multi-generational imputation of SNP genotypes and accuracy of genomic selection. Joint Annual Meeting 2015, Orlando, Florida.
 
+
 ### Conference Proceedings (Oral)
 
 - **Toghiani, S.,** P. VanRaden. National Index Correlations and Expected vs. Actual Use of Foreign Sires. Interbull Virtual Conference, 2021, Leeuwarden, The Netherlands.
-- **Toghiani, S**., L. Chang, Hay, E. H., Roberts, S. Aggrey, and R. Rekaya. A hybrid model for genomic selection using prioritized SNPs based on F~ST~ scores in the presence of non-genotyped animals. American Society of Animal Science meeting, 2019, Austin, Texas.
+- **Toghiani, S**., L. Chang, Hay, E. H., Roberts, S. Aggrey, and R. Rekaya. A hybrid model for genomic selection using prioritized SNPs based on Fst scores in the presence of non-genotyped animals. American Society of Animal Science meeting, 2019, Austin, Texas.
 - **Toghiani, S**., L. Chang, S. Aggrey, and R. Rekaya. A hybrid of prioritized SNP and polygenetic effect method for implementation of genomic selection. American Society of Animal Science meeting, 2017, Baltimore, Maryland.
 - Chang, LY., **S. Toghiani**, S. Aggrey, and R. Rekaya. Increasing accuracy of genomic selection in presence of high-density marker panels through the prioritization of relevant polymorphisms. American Society of Animal Science meeting, 2017, Baltimore, Maryland.
 - **Toghiani, S**., L. Chang, S. Aggrey, R. Rekaya. SNP filtering using Fst and implications for genome wide association and phenotype prediction. Joint Annual Meeting 2016, Salt Lake City, Utah.
 - Chang, LY., **S. Toghiani**, S. Aggrey, and R. Rekaya. High density marker panels, SNPs prioritizing and accuracy of genomic selection. Joint Annual Meeting 2016, Salt Lake City, Utah.
-
 
 
 ### Book Chapters

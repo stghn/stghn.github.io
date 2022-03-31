@@ -107,6 +107,7 @@ September 2005 -- September 2007   <br />
 
 </div>
 
+
 ### Conference Proceedings (Poster)
 <div align="justify"> 
 
@@ -119,6 +120,7 @@ September 2005 -- September 2007   <br />
 - **Toghiani, S**., and R. Rekaya. Multi-generational imputation of SNP genotypes and accuracy of genomic selection. Joint Annual Meeting 2015, Orlando, Florida.
 
 </div>
+
 
 ### Conference Proceedings (Oral)
 <div align="justify">

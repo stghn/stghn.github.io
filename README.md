@@ -109,7 +109,7 @@ September 2005 -- September 2007   <br />
 - Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches, Journal of Animal Science, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
 - **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A. J. Genotype by environment interaction in response to cold stress in a composite beef cattle breed. Plant and Animal Genome XXVIII Conference, San Diego, CA, January 11 - 15, 2020.
 - Sumreddee, P., **Toghiani, S**., Hay, E., Roberts, A., Aggrey, S. E., and Rekaya, R. Runs of homozygosity and analysis of inbreeding depression. Plant and Animal Genome XXVIII Conference, San Diego, CA, January 11 - 15, 2020.
-- Chang, LY., **S. Toghiani**, S. Aggrey, and R. Rekaya. A weighted genomic relationship matrix based on F~ST~ prioritized SNPs for genomic selection. American Society of Animal Science meeting, 2019, Austin, Texas.
+- Chang, LY., **S. Toghiani**, S. Aggrey, and R. Rekaya. A weighted genomic relationship matrix based on Fst prioritized SNPs for genomic selection. American Society of Animal Science meeting, 2019, Austin, Texas.
 - Sumreddee, P., **S. Toghiani**, S. Aggrey, and R. Rekaya. Joint genome-wide association analysis of continuous and discrete traits. American Society of Animal Science meeting, 2017, Baltimore, Maryland.
 - **Toghiani, S**., L. Chang, and R. Rekaya. Genome wide association in presence of high-density marker panels and genotyped causal variants. The Allied Genetics Conference, 2016, Orlando, Florida.
 - **Toghiani, S**., and R. Rekaya. Multi-generational imputation of SNP genotypes and accuracy of genomic selection. Joint Annual Meeting 2015, Orlando, Florida.
@@ -137,13 +137,11 @@ Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.fronti
 - **Master graduate assistantship** awarded by department of Animal and Dairy science (University of Georgia)
 
 ## Computer Skills
-<div align="justify">
 
 **Programming:** Fortran, SAS, R, Python, Unix shell scripting, Git and Github  <br />
 **Applications:** MS office (Word, Excel, PowerPoint, Outlook)  <br />
 **Analysis Tools:** **Plink** *(GWAS analysis software)*, **Gensel** *(Bayesian method for GS/GWAS analysis)*, **Blupf90 family** *(Genetic/Genomic evaluation)*, **QMsim** *(QTL and marker simulator for livestock populations)*, **FImpute** *(Genotype imputation tool)*,**Bioconductor** *(Statistical and graphical methods for analyzing genomic data)*, **Admixture** *(A tool to estimate individual ancestry from SNP genotype datasets)*
 
-</div>
 
 #### Resume: [[HTML](https://stghn.github.io/)] [[DOC](Curriculum_Vitae.docx)]
 

@@ -76,8 +76,9 @@ September 2005 -- September 2007   <br />
 ## Publications
 ### Journal Publications
 
+- Mahnani, A., Sadeghi-Sefidmazgi, A., Ansari-Mahyari, S., Ghiasi, H., and **Toghiani, S.** (2022). Genetic analysis of retained placenta and its association with reproductive disorder, production, and fertility traits of Iranian Holstein dairy cows, Theriogenology, doi: https://doi.org/10.1016/j.theriogenology.2022.04.008.
 - **Toghiani, S.**, & VanRaden, P. (2021). National Index Correlations and Actual vs. Expected Use of Foreign Sires. Interbull Bulletin, (56), 52-59.
-- Sumreddee, P., Hay, E. H., **Toghiani, S.**, Roberts, A., Aggrey, S.E., & Rekaya, R. (2021). Grid search approach to discriminate between old and recent inbreeding using phenotypic, pedigree and genomic information. BMC genomics, 22(1), 1-17.
+- Sumreddee, P., Hay, E. H., **Toghiani, S.**, Roberts, A., Aggrey, S.E., and Rekaya, R. (2021). Grid search approach to discriminate between old and recent inbreeding using phenotypic, pedigree and genomic information. BMC genomics, 22(1), 1-17.
 - Sumreddee, P., **Toghiani, S.**, Hay, E. H., Roberts, A., Aggrey, S.E., and Rekaya, R. (2020). Runs of homozygosity and analysis of inbreeding depression. Journal of Animal Science, 98(12), skaa361.
 - **Toghiani, S**., Hay, E., Roberts, A., and Rekaya, R. (2020). Impact of cold stress on birth and weaning weight in a composite beef cattle breed. Livestock Science, 104053.
 - **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A.J. (2020). Genotype by environment interaction in response to cold stress in a composite beef cattle breed. Animal-The International Journal of Animal Biosciences, 1-12.

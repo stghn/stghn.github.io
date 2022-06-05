@@ -144,5 +144,5 @@ Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.fronti
 **Analysis Tools:** **Plink** *(GWAS analysis software)*, **Gensel** *(Bayesian method for GS/GWAS analysis)*, **Blupf90 family** *(Genetic/Genomic evaluation)*, **QMsim** *(QTL and marker simulator for livestock populations)*, **FImpute** *(Genotype imputation tool)*,**Bioconductor** *(Statistical and graphical methods for analyzing genomic data)*, **Admixture** *(A tool to estimate individual ancestry from SNP genotype datasets)*
 
 
-#### Resume: [[HTML](https://stghn.github.io/)] [[DOC](github.com/stghn/stghn.github.io/Curriculum_Vitae.docx)]
+#### Resume: [[HTML](https://stghn.github.io/)] [[DOC](https://stghn.github.io/Curriculum_Vitae.docx)]
 

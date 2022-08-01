@@ -76,7 +76,8 @@ September 2005 -- September 2007   <br />
 ## Publications
 ### Journal Publications
 
-- Mahnani, A., Sadeghi-Sefidmazgi, A., Ansari-Mahyari, S., Ghiasi, H., and **Toghiani, S.** (2022). **Genetic analysis of retained placenta and its association with reproductive disorder, production, and fertility traits of Iranian Holstein dairy cows**, *Theriogenology*, doi: https://doi.org/10.1016/j.theriogenology.2022.04.008.
+- Hay, E., **Toghiani, S.**, Roberts, A. J., Paim, T., Kuehn, L. A., & Blackburn, H. D. (2022). **Genetic architecture of a composite beef cattle population**. *Journal of Animal Science*, https://doi.org/10.1093/jas/skac230
+- Mahnani, A., Sadeghi-Sefidmazgi, A., Ansari-Mahyari, S., Ghiasi, H., and **Toghiani, S.** (2022). **Genetic analysis of retained placenta and its association with reproductive disorder, production, and fertility traits of Iranian Holstein dairy cows**. *Theriogenology*, doi: https://doi.org/10.1016/j.theriogenology.2022.04.008.
 - **Toghiani, S.**, and VanRaden, P. (2021). **National Index Correlations and Actual vs. Expected Use of Foreign Sires**. *Interbull Bulletin*, (56), 52-59.
 - Sumreddee, P., Hay, E. H., **Toghiani, S.**, Roberts, A., Aggrey, S.E., and Rekaya, R. (2021). **Grid search approach to discriminate between old and recent inbreeding using phenotypic, pedigree and genomic information**. *BMC genomics*, 22(1), 1-17.
 - Sumreddee, P., **Toghiani, S.**, Hay, E. H., Roberts, A., Aggrey, S.E., and Rekaya, R. (2020). **Runs of homozygosity and analysis of inbreeding depression**. *Journal of Animal Science*, 98(12), skaa361.
@@ -106,13 +107,15 @@ September 2005 -- September 2007   <br />
 
 ### Conference Proceedings (Poster)
 
-- Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. **PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches**, *Journal of Animal Science*, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
+- Sumreddee, P., Ling, A., **Toghiani, S.**, Hay, E., Hartono, E., Aggrey, S. E., and Rekaya, R. **Estimation of old and new inbreeding and their effects on growth traits using pedigree and genomic information**. *World Congress on Genetics Applied to Livestock Production*, Rotterdam, The Netherlands, July 3-8, 2022.
+- Hay, E., **Toghiani, S.**, Roberts, A. J., Paim, T., Kuehn, L. A., & Blackburn, H. D. **Genetic architecture of a composite beef cattle population**. *World Congress on Genetics Applied to Livestock Production*, Rotterdam, The Netherlands, July 3-8, 2022.
+- Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. **PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches**. *Journal of Animal Science*, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
 - **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A. J. **Genotype by environment interaction in response to cold stress in a composite beef cattle breed**. *Plant and Animal Genome XXVIII Conference*, San Diego, CA, January 11 - 15, 2020.
-- Sumreddee, P., **Toghiani, S**., Hay, E., Roberts, A., Aggrey, S. E., and Rekaya, R. **Runs of homozygosity and analysis of inbreeding depression**. *Plant and Animal Genome XXVIII Conference*, San Diego, CA, January 11 - 15, 2020.
-- Chang, LY., **S. Toghiani**, S. Aggrey, and R. Rekaya. **A weighted genomic relationship matrix based on Fst prioritized SNPs for genomic selection**. *American Society of Animal Science Annual Meeting*, 2019, Austin, Texas.
-- Sumreddee, P., **S. Toghiani**, S. Aggrey, and R. Rekaya. **Joint genome-wide association analysis of continuous and discrete traits**. *American Society of Animal Science Annual Meeting*, 2017, Baltimore, Maryland.
-- **Toghiani, S**., L. Chang, and R. Rekaya. **Genome wide association in presence of high-density marker panels and genotyped causal variants**. *The Allied Genetics Conference*, 2016, Orlando, Florida.
-- **Toghiani, S**., and R. Rekaya. **Multi-generational imputation of SNP genotypes and accuracy of genomic selection**. *Joint ADSA/ASAS Annual Meeting*, 2015, Orlando, Florida.
+- Sumreddee, P., **Toghiani, S**., Hay, E., Roberts, A., Aggrey, S. E., and Rekaya, R. **Runs of homozygosity and analysis of inbreeding depression**. *Plant and Animal Genome XXVIII Conference*. San Diego, CA, January 11 - 15, 2020.
+- Chang, LY., **S. Toghiani**, S. Aggrey, and R. Rekaya. **A weighted genomic relationship matrix based on Fst prioritized SNPs for genomic selection**. *American Society of Animal Science Annual Meeting*, Austin, Texas, 2019.
+- Sumreddee, P., **S. Toghiani**, S. Aggrey, and R. Rekaya. **Joint genome-wide association analysis of continuous and discrete traits**. *American Society of Animal Science Annual Meeting*, Baltimore, Maryland, 2017.
+- **Toghiani, S**., L. Chang, and R. Rekaya. **Genome wide association in presence of high-density marker panels and genotyped causal variants**. *The Allied Genetics Conference*, Orlando, Florida, 2016.
+- **Toghiani, S**., and R. Rekaya. **Multi-generational imputation of SNP genotypes and accuracy of genomic selection**. *Joint ADSA/ASAS Annual Meeting*, Orlando, Florida, 2015.
 
 
 ### Conference Proceedings (Oral)
@@ -135,8 +138,9 @@ Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.fronti
 
 
 ## Honors and Awards
-- **PhD graduate assistantship** awarded by USDA-ARS Livestock and Range Research Laboratory (Miles city, MT)
-- **Master graduate assistantship** awarded by department of Animal and Dairy science (University of Georgia)
+- **USDA Employee Performance Award**: Recipient of monetary award in 2021 for contributing to the evaluation of international selection indices and the revision of the national selection index (NM$) to better account for feed intake associated with milk production and body weight traits in dairy cattle. Both research topics have been of wide interest to breeding companies, national and international consumers of dairy products and primarily will benefit them for the foreseeable future. 
+- USDA-ARS Livestock and Range Research Laboratory (Miles City, MT) awarded a **PhD Graduate Assistantship** in 2016-2018
+- Department of Animal and Dairy Science (University od Georgia) awarded a **Master Graduate Assistantship** in 2013-2015 
 
 ## Computer Skills
 

@@ -76,7 +76,7 @@ September 2005 -- September 2007   <br />
 ## Publications
 ### Journal Publications
 
-- Hay, E., **Toghiani, S.**, Roberts, A. J., Paim, T., Kuehn, L. A., & Blackburn, H. D. (2022). **Genetic architecture of a composite beef cattle population**. *Journal of Animal Science*, https://doi.org/10.1093/jas/skac230
+- Hay, E., **Toghiani, S.**, Roberts, A. J., Paim, T., Kuehn, L. A., & Blackburn, H. D. (2022). **Genetic architecture of a composite beef cattle population**. *Journal of Animal Science*, 100(9), 1–13.
 - Mahnani, A., Sadeghi-Sefidmazgi, A., Ansari-Mahyari, S., Ghiasi, H., and **Toghiani, S.** (2022). **Genetic analysis of retained placenta and its association with reproductive disorder, production, and fertility traits of Iranian Holstein dairy cows**. *Theriogenology* 189: 59-63.
 - **Toghiani, S.**, and VanRaden, P. (2021). **National Index Correlations and Actual vs. Expected Use of Foreign Sires**. *Interbull Bulletin*, (56), 52-59.
 - Sumreddee, P., Hay, E. H., **Toghiani, S.**, Roberts, A., Aggrey, S.E., and Rekaya, R. (2021). **Grid search approach to discriminate between old and recent inbreeding using phenotypic, pedigree and genomic information**. *BMC genomics*, 22(1), 1-17.

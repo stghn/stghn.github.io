@@ -74,10 +74,10 @@ September 2005 -- September 2007   <br />
 
 
 ## Publications
-### Journal Publications
+### Journal Publications and Conference Proceedings 
 - Nadri, S., Sadeghi-Sefidmazgi, A., Zamani, P., Ghorbani, G. R., and **Toghiani, S.** (2023). **Implementation of Feed Efficiency in Iranian Holstein Breeding Program**. Animals, 13(7), 1216. https://doi.org/10.3390/ani13071216
-- Sumreddee, P., Ling, A., **Toghiani, S.**, Hay, E. H., Hartono, E., Aggrey, S. E., and Rekaya, R. (2022, December). **Estimation of old and new inbreeding and their effects on growth traits using pedigree and genomic information**. In Proceedings of 12th World Congress on Genetics Applied to Livestock Production (WCGALP) pp. 952-955. Wageningen Academic Publishers. https://doi.org/10.3920/978-90-8686-940-4_224
-- Hay, E., **Toghiani, S.**, Roberts, A. J., Paim, T., Kuehn, L. A., and Blackburn, H. D. (2022, December). **Genetic architecture of a composite beef cattle population**. In Proceedings of 12th World Congress on Genetics Applied to Livestock Production (WCGALP) pp. 826-829. Wageningen Academic Publishers. https://doi.org/10.3920/978-90-8686-940-4_193
+- Sumreddee, P., Ling, A., **Toghiani, S.**, Hay, E. H., Hartono, E., Aggrey, S. E., and Rekaya, R. (2022). **Estimation of old and new inbreeding and their effects on growth traits using pedigree and genomic information**. In Proceedings of 12th World Congress on Genetics Applied to Livestock Production (WCGALP) pp. 952-955. Wageningen Academic Publishers. https://doi.org/10.3920/978-90-8686-940-4_224
+- Hay, E., **Toghiani, S.**, Roberts, A. J., Paim, T., Kuehn, L. A., and Blackburn, H. D. (2022). **Genetic architecture of a composite beef cattle population**. In Proceedings of 12th World Congress on Genetics Applied to Livestock Production (WCGALP) pp. 826-829. Wageningen Academic Publishers. https://doi.org/10.3920/978-90-8686-940-4_193
 - Hay, E., **Toghiani, S.**, Roberts, A. J., Paim, T., Kuehn, L. A., and Blackburn, H. D. (2022). **Genetic architecture of a composite beef cattle population**. *Journal of Animal Science*, 100(9), 1–13. https://doi.org/10.1093/jas/skac230
 - Mahnani, A., Sadeghi-Sefidmazgi, A., Ansari-Mahyari, S., Ghiasi, H., and **Toghiani, S.** (2022). **Genetic analysis of retained placenta and its association with reproductive disorder, production, and fertility traits of Iranian Holstein dairy cows**. *Theriogenology* 189: 59-63.  https://doi.org/10.1016/j.theriogenology.2022.04.008
 - **Toghiani, S.**, and VanRaden, P. (2021). **National Index Correlations and Actual vs. Expected Use of Foreign Sires**. *Interbull Bulletin*, (56), 52-59.
@@ -87,6 +87,7 @@ September 2005 -- September 2007   <br />
 - **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A.J. (2020). **Genotype by environment interaction in response to cold stress in a composite beef cattle breed**. *Animal-The International Journal of Animal Biosciences*, 1-12. https://doi.org/10.1017/S1751731120000531
 - Chang, L. Y., **Toghiani, S**., Hay, E. H., Aggrey, S. E., and Rekaya, R. (2019). **A Weighted Genomic Relationship Matrix Based on Fixation Index (FST) Prioritized SNPs for Genomic Selection**. *Genes*, 10(11),922. https://doi.org/10.3390/genes10110922
 - Chang, L. Y., **Toghiani, S**., Aggrey, S. E., and Rekaya, R. (2019). **Increasing accuracy of genomic selection in presence of high-density marker panels through the prioritization of relevant polymorphisms**. *BMC genetics*, 20(1), 21. https://doi.org/10.1186/s12863-019-0720-5
+- Aggrey, S. E., **Toghiani, S.**, Chang, L. -Y., & Rekaya, R. (2019). **Improving accuracy of genomic prediction using selected small sets of prioritized SNP markers**. In Proc. 68th Annual Poultry Breeders Round Conference (pp. 1-10). St. Louis, MO.
 - Sumreddee, P., **Toghiani, S**., Hay, E. H., Roberts, A., Aggrey, S.E., and Rekaya, R. (2018). **Inbreeding depression in Line1 Hereford cattle population using pedigree and genomic information**. *Journal of Animal Science*, 97(1), 1-18. https://doi.org/10.1093/jas/sky385
 - Chang, L. Y., **Toghiani, S.**, Ling, A., Aggrey, S. E., and Rekaya, R. (2018). **High density marker panels, SNPs prioritizing and accuracy of genomic selection**. *BMC genetics*, 19(1), 4. https://doi.org/10.1186/s12863-017-0595-2
 - **Toghiani, S.**, Hay, E., Sumreddee, P., Geary, T. W., Rekaya, R., and Roberts, A. J. (2017). **Genomic prediction of continuous and binary fertility traits of females in a composite beef cattle breed**. *Journal of Animal Science*, 95(11), 4787-4795. https://doi.org/10.2527/jas2017.1944
@@ -101,7 +102,7 @@ September 2005 -- September 2007   <br />
 - **Toghiani, S**. (2011). **Genetic parameters and correlations among linear type traits in the first lactation of Holstein Dairy cows**. *African Journal of Biotechnology*, 10(9), 1507-1510.
 - **Toghiani Pozveh, S**., Shadparvar, A. A., Shahrbabak, M. M., and Taromsari, M. D. (2009). **Genetic analysis of reproduction traits and their relationship with conformation traits in Holstein cows**. *Livestock Science*, 125(1), 84-87. https://doi.org/10.1016/j.livsci.2009.02.015
 
-### Conference Proceedings (Poster)
+### Poster Presentations 
 
 - Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. **PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches**. *Journal of Animal Science*, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
 - **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A. J. **Genotype by environment interaction in response to cold stress in a composite beef cattle breed**. *Plant and Animal Genome XXVIII Conference*, San Diego, CA, January 11 - 15, 2020.
@@ -114,11 +115,11 @@ September 2005 -- September 2007   <br />
 - **Toghiani, S**., and R. Rekaya. **Multi-generational imputation of SNP genotypes and accuracy of genomic selection**. *Joint ADSA/ASAS Annual Meeting*, Orlando, Florida, 2015.
 
 
-### Conference Proceedings (Oral)
+### Oral Presentations
 
 - **Toghiani, S.,** VanRaden, P.M., Parker Gaddis, K., VandeHaar, M.J., and Tempelman, R.J. **Phenotypic and genotypic impact of milk components and bodyweight composite on dry matter intake**. *American Society of Dairy Science Annual Meeting*, 2022, Kansas City, Missouri. 
 - **Toghiani, S.,** P. VanRaden. **National Index Correlations and Expected vs. Actual Use of Foreign Sires**. *Interbull Virtual Conference*, 2021, Leeuwarden, The Netherlands.
-- Aggrey, S. E., **Toghiani, S**., Chang, L. Y., and Rekaya, R. **Improving accuracy of genomic prediction using a selected small set of prioritized SNP markers**. *Proceedings, 68th Annual Poultry Breeders' Round Table Conference*, 2020.
+- Aggrey, S. E., **Toghiani, S**., Chang, L. Y., and Rekaya, R. **Improving accuracy of genomic prediction using a selected small set of prioritized SNP markers**. *Proceedings, 68th Annual Poultry Breeders' Round Table Conference*, 2019, St. Louis, Missouri.
 - **Toghiani, S**., L. Chang, Hay, E. H., Roberts, S. Aggrey, and R. Rekaya. **A hybrid model for genomic selection using prioritized SNPs based on Fst scores in the presence of non-genotyped animals**. *American Society of Animal Science Annual Meeting*, 2019, Austin, Texas.
 - Chang, L. Y., **Toghiani, S.**, Aggrey, S. E., and Rekaya, R. (2017). **Increasing accuracy of genomic selection in presence of high-density marker panels through the prioritization of relevant polymorphisms**. *Journal of Animal Science*, 95(suppl_4), 91-92.
 - **Toghiani, S.**, Chang, L. Y., Aggrey, S. E., and Rekaya, R. (2017). **A hybrid of prioritized SNP and polygenetic effect method for implementation of genomic selection**. *Journal of Animal Science*, 95(supplement4), 92-92.

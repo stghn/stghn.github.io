@@ -116,27 +116,19 @@ September 2005 -- September 2007   <br />
 
 
 ### Oral Presentations
-
-- **Toghiani, S.,** VanRaden, P.M., Parker Gaddis, K., VandeHaar, M.J., and Tempelman, R.J. **Phenotypic and genotypic impact of milk components and bodyweight composite on dry matter intake**. *American Society of Dairy Science Annual Meeting*, 2022, Kansas City, Missouri. 
-- **Toghiani, S.,** P. VanRaden. **National Index Correlations and Expected vs. Actual Use of Foreign Sires**. *Interbull Virtual Conference*, 2021, Leeuwarden, The Netherlands.
-- Aggrey, S. E., **Toghiani, S**., Chang, L. Y., and Rekaya, R. **Improving accuracy of genomic prediction using a selected small set of prioritized SNP markers**. *Proceedings, 68th Annual Poultry Breeders' Round Table Conference*, 2019, St. Louis, Missouri.
-- **Toghiani, S**., L. Chang, Hay, E. H., Roberts, S. Aggrey, and R. Rekaya. **A hybrid model for genomic selection using prioritized SNPs based on Fst scores in the presence of non-genotyped animals**. *American Society of Animal Science Annual Meeting*, 2019, Austin, Texas.
-- Chang, L. Y., **Toghiani, S.**, Aggrey, S. E., and Rekaya, R. (2017). **Increasing accuracy of genomic selection in presence of high-density marker panels through the prioritization of relevant polymorphisms**. *Journal of Animal Science*, 95(suppl_4), 91-92.
-- **Toghiani, S.**, Chang, L. Y., Aggrey, S. E., and Rekaya, R. (2017). **A hybrid of prioritized SNP and polygenetic effect method for implementation of genomic selection**. *Journal of Animal Science*, 95(supplement4), 92-92.
-- **Toghiani, S**., L. Chang, S. Aggrey, and R. Rekaya. **A hybrid of prioritized SNP and polygenetic effect method for implementation of genomic selection**. *American Society of Animal Science Annual Meeting*, 2017, Baltimore, Maryland.
-- Chang, LY., **S. Toghiani**, S. Aggrey, and R. Rekaya. **Increasing accuracy of genomic selection in presence of high-density marker panels through the prioritization of relevant polymorphisms**. *American Society of Animal Science Annual Meeting*, 2017, Baltimore, Maryland.
-- Chang, L. Y., **Toghiani, S**., Aggrey, S. E., and Rekaya, R. (2016). **High density marker panels, SNPs prioritizing and accuracy of genomic selection**. *Journal of Animal Science*, 94(suppl_5), 141-142.
-- **Toghiani, S**., Chang, L. Y., Aggrey, S. E., and Rekaya, R. (2016). **SNP filtering using Fst and implications for genome wide association and phenotype prediction**. *Journal of Animal Science*, 94(suppl_5), 143-143.
-- **Toghiani, S**., L. Chang, S. Aggrey, R. Rekaya. **SNP filtering using Fst and implications for genome wide association and phenotype prediction**. *Joint ADSA/ASAS Annual Meeting*, 2016, Salt Lake City, Utah.
-- Chang, LY., **S. Toghiani**, S. Aggrey, and R. Rekaya. **High density marker panels, SNPs prioritizing and accuracy of genomic selection**. *Joint ADSA/ASAS Annual Meeting*, 2016, Salt Lake City, Utah.
-
+- **Toghiani, S.**, VanRaden, M., Gaddis, K. L., VandeHaar, M. J., and Tempelman, R. J. (2022). **Phenotypic and genotypic impact of milk components and bodyweight composite on dry matter intake**. In Journal of Dairy Science (Vol. 105, pp. 200-200).
+- **Toghiani, S.**, P. VanRaden. **National Index Correlations and Expected vs. Actual Use of Foreign Sires**. Interbull Virtual Conference, 2021, Leeuwarden, The Netherlands.
+- **Toghiani, S.**, Chang, L. Y., Hay, E. H., Roberts, A. J., Aggrey, S. E., and Rekaya, R. (2019). **330 A hybrid model for genomic selection using prioritized SNPs based on FST scores in the presence of non-genotyped animals**. Journal of Animal Science, 97(Suppl 3), 51.
+- Chang, L. Y., **Toghiani, S.**, Aggrey, S. E., and Rekaya, R. (2017). **Increasing accuracy of genomic selection in presence of high-density marker panels through the prioritization of relevant polymorphisms**. Journal of Animal Science, 95(suppl_4), 91-92.
+- **Toghiani, S.**, Chang, L. Y., Aggrey, S. E., and Rekaya, R. (2017). **A hybrid of prioritized SNP and polygenetic effect method for implementation of genomic selection**. Journal of Animal Science, 95(supplement4), 92-92.
+- Chang, L. Y., **Toghiani, S.**, Aggrey, S. E., and Rekaya, R. (2016). **High density marker panels, SNPs prioritizing and accuracy of genomic selection**. Journal of Animal Science, 94(suppl_5), 141-142.
+- **Toghiani, S.**, Chang, L. Y., Aggrey, S. E., and Rekaya, R. (2016). **SNP filtering using Fst and implications for genome wide association and phenotype prediction**. Journal of Animal Science, 94(suppl_5), 143-143.
 
 ### Book Chapters
-- **Toghiani, S**. (2012). **Quantitative Genetic Application in the Selection Process for Livestock Production**. *Livestock Production*. InTech.
+- **Toghiani, S**. (2012). **Quantitative Genetic Application in the Selection Process for Livestock Production**. In J. Khalid (Ed.), Livestock Production (pp. Ch. 1). IntechOpen. https://doi.org/10.5772/51027 
 
 ## Editorial Activities
 Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection" target="_blank">Reducing the Environmental Footprint of Livestock Through Genomic Selection</a>.
-
 
 ## Honors and Awards
 - **USDA Employee Performance Award**: Recipient of monetary award in 2021 for contributing to the evaluation of international selection indices and the revision of the national selection index (NM$) to better account for feed intake associated with milk production and body weight traits in dairy cattle. Both research topics have been of wide interest to breeding companies, national and international consumers of dairy products and primarily will benefit them for the foreseeable future. 

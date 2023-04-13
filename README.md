@@ -75,7 +75,7 @@ September 2005 -- September 2007   <br />
 
 ## Publications
 ### Journal Publications and Conference Proceedings 
-- Nadri, S., Sadeghi-Sefidmazgi, A., Zamani, P., Ghorbani, G. R., and **Toghiani, S.** (2023). **Implementation of Feed Efficiency in Iranian Holstein Breeding Program**. Animals, 13(7), 1216. <a https://doi.org/10.3390/ani13071216 </a>
+- Nadri, S., Sadeghi-Sefidmazgi, A., Zamani, P., Ghorbani, G. R., and **Toghiani, S.** (2023). **Implementation of Feed Efficiency in Iranian Holstein Breeding Program**. Animals, 13(7), 1216. <a https://doi.org/10.3390/ani13071216> </a>
 - Sumreddee, P., Ling, A., **Toghiani, S.**, Hay, E. H., Hartono, E., Aggrey, S. E., and Rekaya, R. (2022). **Estimation of old and new inbreeding and their effects on growth traits using pedigree and genomic information**. In Proceedings of 12th World Congress on Genetics Applied to Livestock Production (WCGALP) pp. 952-955. Wageningen Academic Publishers. https://doi.org/10.3920/978-90-8686-940-4_224
 - Hay, E., **Toghiani, S.**, Roberts, A. J., Paim, T., Kuehn, L. A., and Blackburn, H. D. (2022). **Genetic architecture of a composite beef cattle population**. In Proceedings of 12th World Congress on Genetics Applied to Livestock Production (WCGALP) pp. 826-829. Wageningen Academic Publishers. https://doi.org/10.3920/978-90-8686-940-4_193
 - Hay, E., **Toghiani, S.**, Roberts, A. J., Paim, T., Kuehn, L. A., and Blackburn, H. D. (2022). **Genetic architecture of a composite beef cattle population**. *Journal of Animal Science*, 100(9), 1–13. https://doi.org/10.1093/jas/skac230

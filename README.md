@@ -99,7 +99,7 @@ September 2005 -- September 2007   <br />
 - **Toghiani Pozveh, S**., Shadparvar, A. A., Shahrbabak, M. M., and Taromsari, M. D. (2009). **Genetic analysis of reproduction traits and their relationship with conformation traits in Holstein cows**. *Livestock Science*, 125(1), 84-87. [https://doi.org/10.1016/j.livsci.2009.02.015](https://doi.org/10.1016/j.livsci.2009.02.015)
 
 ### Poster Presentations 
-
+- **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **A two-stage Fst prioritization approach in the presence of high-density marker panels: a simulation study**. *International Society for Animal Genetics (ISAG) Confernece*. Cape Town, South Africa, July 2 - 7, 2023.
 - Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. **PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches**. *Journal of Animal Science*, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
 - **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A. J. **Genotype by environment interaction in response to cold stress in a composite beef cattle breed**. *Plant and Animal Genome XXVIII Conference*, San Diego, CA, January 11 - 15, 2020.
 - Sumreddee, P., **Toghiani, S**., Hay, E., Roberts, A., Aggrey, S. E., and Rekaya, R. **Runs of homozygosity and analysis of inbreeding depression**. *Plant and Animal Genome XXVIII Conference*. San Diego, CA, January 11 - 15, 2020.

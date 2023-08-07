@@ -19,7 +19,7 @@
 
 ## Profile
 <p align="justify">
-Sajjad is an Research Geneticist (Animals) at <a href="https://www.ars.usda.gov/people-locations/person?person-id=55652" target="_blank">USDA in Animal Genomics and Improvement Laboratory</a> with a background in animal breeding and genetics. His areas of interest are focused on the application of genomic information in livestock including genomic selection, genome-wide association studies, genotype imputation, and population genomics. His goals are to conduct research using the cutting edge of genomic research in animal breeding to develop decision-making tools and improved algorithms to enhance animal health and welfare, environmental sustainability, climate adaptability, and productivity cost-effectively for producers. 
+Sajjad is a Research Geneticist (Animals) at <a href="https://www.ars.usda.gov/people-locations/person?person-id=55652" target="_blank">USDA in Animal Genomics and Improvement Laboratory</a> with a background in animal breeding and genetics. His areas of interest are focused on the application of genomic information in livestock including genomic selection, genome-wide association studies, genotype imputation, and population genomics. His goals are to conduct research using cutting-edge genomic research in animal breeding to develop decision-making tools and improved algorithms to enhance animal health and welfare, environmental sustainability, and climate adaptability, and efficiently enhance productivity for producers. 
 </p>
 
 ## Education

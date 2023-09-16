@@ -125,15 +125,16 @@ September 2005 -- September 2007   <br />
 - **Toghiani, S**. (2012). **Quantitative Genetic Application in the Selection Process for Livestock Production**. In J. Khalid (Ed.), Livestock Production (pp. Ch. 1). IntechOpen. [ https://doi.org/10.5772/51027](https://doi.org/10.5772/51027)
 
 ## Editorial Activities
-Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection" target="_blank">Reducing the Environmental Footprint of Livestock Through Genomic Selection</a>.
-
+- Special issue Editor for Frontiers in Genetics -- Livestock Genomics section: <a href="https://www.mdpi.com/journal/animals/special_issues/R30E30B38R" target="_blank">Reducing the Environmental Footprint of Livestock Through Genomic Selection</a>.
+- Editorial Board of Frontiers in Genetics as a Review Editor Livestock Genomics
+- Special issue Editor for animals (MDPI) journal -- Animal System and Management section: <a href="https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection" target="_blank">Animal Production in the Artificial Intelligence Era: Advances and Applications</a>.
+  
 ## Honors and Awards
 - **USDA Employee Performance Award**: Recipient of the monetary award in 2021 for contributing to the evaluation of international selection indices and the revision of the national selection index (NM$) to better account for feed intake associated with milk production and body weight traits in dairy cattle. Both research topics have been of wide interest to breeding companies, and national and international consumers of dairy products and primarily will benefit them for the foreseeable future. 
 - USDA-ARS Livestock and Range Research Laboratory (Miles City, MT) awarded a **PhD Graduate Assistantship** in 2016-2018
 - Department of Animal and Dairy Science (University of Georgia) awarded a **Master Graduate Assistantship** in 2013-2015 
 
 ## Computer Skills
-
 **Programming:** Fortran, SAS, R, Python, Unix shell scripting, Git and Github  <br />
 **Applications:** MS Office (Word, Excel, PowerPoint, Outlook)  <br />
 **Analysis Tools:** **Plink** *(GWAS analysis software)*, **Gensel** *(Bayesian method for GS/GWAS analysis)*, **Blupf90 family** *(Genetic/Genomic evaluation)*, **QMsim** *(QTL and marker simulator for livestock populations)*, **FImpute** *(Genotype imputation tool)*,**Bioconductor** *(Statistical and graphical methods for analyzing genomic data)*, **Admixture** *(A tool to estimate individual ancestry from SNP genotype datasets)*

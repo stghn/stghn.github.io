@@ -75,6 +75,7 @@ September 2005 -- September 2007   <br />
 
 ## Publications
 ### Journal Publications and Conference Proceedings 
+- Déru, V., Tiezzi, F., VanRaden, P. M., Lozada-Soto, E. A., **Toghiani, S.**,  and Maltecca, C. (2023). **Imputation accuracy from low to medium-density SNP chips for US crossbred dairy cattle**. Journal of Dairy Science. [https://doi.org/10.3168/jds.2023-23250](https://doi.org/10.3168/jds.2023-23250)
 - Nadri, S., Sadeghi-Sefidmazgi, A., Zamani, P., Ghorbani, G. R., and **Toghiani, S.** (2023). **Implementation of Feed Efficiency in Iranian Holstein Breeding Program**. Animals, 13(7), 1216. [https://doi.org/10.3390/ani13071216](https://doi.org/10.3390/ani13071216)  
 - Sumreddee, P., Ling, A., **Toghiani, S.**, Hay, E. H., Hartono, E., Aggrey, S. E., and Rekaya, R. (2022). **Estimation of old and new inbreeding and their effects on growth traits using pedigree and genomic information**. In Proceedings of 12th World Congress on Genetics Applied to Livestock Production (WCGALP) pp. 952-955. Wageningen Academic Publishers. [https://doi.org/10.3920/978-90-8686-940-4_224](https://doi.org/10.3920/978-90-8686-940-4_224)
 - Hay, E., **Toghiani, S.**, Roberts, A. J., Paim, T., Kuehn, L. A., and Blackburn, H. D. (2022). **Genetic architecture of a composite beef cattle population**. In Proceedings of 12th World Congress on Genetics Applied to Livestock Production (WCGALP) pp. 826-829. Wageningen Academic Publishers. [https://doi.org/10.3920/978-90-8686-940-4_193](https://doi.org/10.3920/978-90-8686-940-4_193)
@@ -99,7 +100,7 @@ September 2005 -- September 2007   <br />
 - **Toghiani Pozveh, S**., Shadparvar, A. A., Shahrbabak, M. M., and Taromsari, M. D. (2009). **Genetic analysis of reproduction traits and their relationship with conformation traits in Holstein cows**. *Livestock Science*, 125(1), 84-87. [https://doi.org/10.1016/j.livsci.2009.02.015](https://doi.org/10.1016/j.livsci.2009.02.015)
 
 ### Poster Presentations 
-- **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **A two-stage Fst prioritization approach in the presence of high-density marker panels: a simulation study**. *International Society for Animal Genetics (ISAG) Confernece*. Cape Town, South Africa, July 2 - 7, 2023.
+- **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **A two-stage Fst prioritization approach in the presence of high-density marker panels: a simulation study**. *International Society for Animal Genetics (ISAG) Conference*. Cape Town, South Africa, July 2 - 7, 2023.
 - Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. **PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches**. *Journal of Animal Science*, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
 - **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A. J. **Genotype by environment interaction in response to cold stress in a composite beef cattle breed**. *Plant and Animal Genome XXVIII Conference*, San Diego, CA, January 11 - 15, 2020.
 - Sumreddee, P., **Toghiani, S**., Hay, E., Roberts, A., Aggrey, S. E., and Rekaya, R. **Runs of homozygosity and analysis of inbreeding depression**. *Plant and Animal Genome XXVIII Conference*. San Diego, CA, January 11 - 15, 2020.
@@ -127,14 +128,14 @@ September 2005 -- September 2007   <br />
 Frontiers in Genetics -- Section Livestock Genomics: <a href="https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection" target="_blank">Reducing the Environmental Footprint of Livestock Through Genomic Selection</a>.
 
 ## Honors and Awards
-- **USDA Employee Performance Award**: Recipient of monetary award in 2021 for contributing to the evaluation of international selection indices and the revision of the national selection index (NM$) to better account for feed intake associated with milk production and body weight traits in dairy cattle. Both research topics have been of wide interest to breeding companies, national and international consumers of dairy products and primarily will benefit them for the foreseeable future. 
+- **USDA Employee Performance Award**: Recipient of the monetary award in 2021 for contributing to the evaluation of international selection indices and the revision of the national selection index (NM$) to better account for feed intake associated with milk production and body weight traits in dairy cattle. Both research topics have been of wide interest to breeding companies, and national and international consumers of dairy products and primarily will benefit them for the foreseeable future. 
 - USDA-ARS Livestock and Range Research Laboratory (Miles City, MT) awarded a **PhD Graduate Assistantship** in 2016-2018
-- Department of Animal and Dairy Science (University od Georgia) awarded a **Master Graduate Assistantship** in 2013-2015 
+- Department of Animal and Dairy Science (University of Georgia) awarded a **Master Graduate Assistantship** in 2013-2015 
 
 ## Computer Skills
 
 **Programming:** Fortran, SAS, R, Python, Unix shell scripting, Git and Github  <br />
-**Applications:** MS office (Word, Excel, PowerPoint, Outlook)  <br />
+**Applications:** MS Office (Word, Excel, PowerPoint, Outlook)  <br />
 **Analysis Tools:** **Plink** *(GWAS analysis software)*, **Gensel** *(Bayesian method for GS/GWAS analysis)*, **Blupf90 family** *(Genetic/Genomic evaluation)*, **QMsim** *(QTL and marker simulator for livestock populations)*, **FImpute** *(Genotype imputation tool)*,**Bioconductor** *(Statistical and graphical methods for analyzing genomic data)*, **Admixture** *(A tool to estimate individual ancestry from SNP genotype datasets)*
 
 

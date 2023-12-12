@@ -75,6 +75,7 @@ September 2005 -- September 2007   <br />
 
 ## Publications
 ### Journal Publications and Conference Proceedings 
+- Lozada-Soto, E. A., Gaddis, K. L. P., Tiezzi, F., Jiang, J., Ma, L., **Toghiani, S.**, ... & Maltecca, C. (2023). **Inbreeding depression for producer-recorded udder, metabolic, and reproductive diseases in US dairy cattle**. Journal of Dairy Science.[https://doi.org/10.3168/jds.2023-23909](https://doi.org/10.3168/jds.2023-23909)
 - Déru, V., Tiezzi, F., VanRaden, P. M., Lozada-Soto, E. A., **Toghiani, S.**,  and Maltecca, C. (2023). **Imputation accuracy from low to medium-density SNP chips for US crossbred dairy cattle**. Journal of Dairy Science. [https://doi.org/10.3168/jds.2023-23250](https://doi.org/10.3168/jds.2023-23250)
 - Nadri, S., Sadeghi-Sefidmazgi, A., Zamani, P., Ghorbani, G. R., and **Toghiani, S.** (2023). **Implementation of Feed Efficiency in Iranian Holstein Breeding Program**. Animals, 13(7), 1216. [https://doi.org/10.3390/ani13071216](https://doi.org/10.3390/ani13071216)  
 - Sumreddee, P., Ling, A., **Toghiani, S.**, Hay, E. H., Hartono, E., Aggrey, S. E., and Rekaya, R. (2022). **Estimation of old and new inbreeding and their effects on growth traits using pedigree and genomic information**. In Proceedings of 12th World Congress on Genetics Applied to Livestock Production (WCGALP) pp. 952-955. Wageningen Academic Publishers. [https://doi.org/10.3920/978-90-8686-940-4_224](https://doi.org/10.3920/978-90-8686-940-4_224)

@@ -30,8 +30,8 @@ Sajjad is a Research Geneticist (Animals) at <a href="https://www.ars.usda.gov/p
 
 **MS   University of Georgia (Athens, GA, USA)**   &emsp; &emsp; &emsp;   2013-2015  <br />
        *College of Agricultural and Environmental Sciences*  <br />
-		   *Department of Animal and Dairy Science*     <br />
-		    Majored in **Animal Breeding and Genetics**  <br />
+       *Department of Animal and Dairy Science*     <br />
+	Majored in **Animal Breeding and Genetics**  <br />
 
 **MS    Guilan University (Rasht, IRAN)**    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2005-2007 <br />
         *College of Agricultural Sciences*  <br />
@@ -75,9 +75,9 @@ September 2005 -- September 2007   <br />
 
 ## Publications
 ### Journal Publications and Conference Proceedings 
+- Déru, V., Tiezzi, F., VanRaden, P. M., Lozada-Soto, E. A., **Toghiani, S.**,  and Maltecca, C. (2024). **Imputation accuracy from low to medium-density SNP chips for US crossbred dairy cattle**. Journal of Dairy Science, 107(1), 398-411. [https://doi.org/10.3168/jds.2023-23250](https://doi.org/10.3168/jds.2023-23250)
 - VanRaden, P. M., Fok, G. C., **Toghiani, S.**, Nicolazzi, E. L. (2023). **Modeling identical twins and clones in genetic evaluations**. Interbull Bulletin, (59), 26-27.
 - Lozada-Soto, E. A., Gaddis, K. L. P., Tiezzi, F., Jiang, J., Ma, L., **Toghiani, S.**, VanRaden, P. M., and Maltecca, C. (2023). **Inbreeding depression for producer-recorded udder, metabolic, and reproductive diseases in US dairy cattle**. Journal of Dairy Science. [https://doi.org/10.3168/jds.2023-23909](https://doi.org/10.3168/jds.2023-23909)
-- Déru, V., Tiezzi, F., VanRaden, P. M., Lozada-Soto, E. A., **Toghiani, S.**,  and Maltecca, C. (2023). **Imputation accuracy from low to medium-density SNP chips for US crossbred dairy cattle**. Journal of Dairy Science. [https://doi.org/10.3168/jds.2023-23250](https://doi.org/10.3168/jds.2023-23250)
 - Nadri, S., Sadeghi-Sefidmazgi, A., Zamani, P., Ghorbani, G. R., and **Toghiani, S.** (2023). **Implementation of Feed Efficiency in Iranian Holstein Breeding Program**. Animals, 13(7), 1216. [https://doi.org/10.3390/ani13071216](https://doi.org/10.3390/ani13071216)  
 - Sumreddee, P., Ling, A., **Toghiani, S.**, Hay, E. H., Hartono, E., Aggrey, S. E., and Rekaya, R. (2022). **Estimation of old and new inbreeding and their effects on growth traits using pedigree and genomic information**. In Proceedings of 12th World Congress on Genetics Applied to Livestock Production (WCGALP) pp. 952-955. Wageningen Academic Publishers. [https://doi.org/10.3920/978-90-8686-940-4_224](https://doi.org/10.3920/978-90-8686-940-4_224)
 - Hay, E., **Toghiani, S.**, Roberts, A. J., Paim, T., Kuehn, L. A., and Blackburn, H. D. (2022). **Genetic architecture of a composite beef cattle population**. In Proceedings of 12th World Congress on Genetics Applied to Livestock Production (WCGALP) pp. 826-829. Wageningen Academic Publishers. [https://doi.org/10.3920/978-90-8686-940-4_193](https://doi.org/10.3920/978-90-8686-940-4_193)
@@ -102,7 +102,9 @@ September 2005 -- September 2007   <br />
 - **Toghiani Pozveh, S**., Shadparvar, A. A., Shahrbabak, M. M., and Taromsari, M. D. (2009). **Genetic analysis of reproduction traits and their relationship with conformation traits in Holstein cows**. *Livestock Science*, 125(1), 84-87. [https://doi.org/10.1016/j.livsci.2009.02.015](https://doi.org/10.1016/j.livsci.2009.02.015)
 
 ### Poster Presentations 
+- **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **Fst based marker prioritization within QTL regions and its impact on genomic selection accuracy: Insights from a simulation study with high-density marker panels**. *The Allied Genetics Conference*, Washington D.C., March 6 - 10, 2024.
 - **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **A two-stage Fst prioritization approach in the presence of high-density marker panels: a simulation study**. *International Society for Animal Genetics (ISAG) Conference*. Cape Town, South Africa, July 2 - 7, 2023.
+- Lozada-Soto, E.A., Tiezzi, F., Jiang, J., Cole, J.B., Vanraden, P.M., **Toghiani, S.**, and Maltecca, C. **Effect of germplasm exchange strategies on genetic gain and diversity in dairy stud populations**. Proc. The European Federation of Animal Science (EAAP) Congress. 2023; pp. 403.
 - Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. **PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches**. *Journal of Animal Science*, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
 - **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A. J. **Genotype by environment interaction in response to cold stress in a composite beef cattle breed**. *Plant and Animal Genome XXVIII Conference*, San Diego, CA, January 11 - 15, 2020.
 - Sumreddee, P., **Toghiani, S**., Hay, E., Roberts, A., Aggrey, S. E., and Rekaya, R. **Runs of homozygosity and analysis of inbreeding depression**. *Plant and Animal Genome XXVIII Conference*. San Diego, CA, January 11 - 15, 2020.
@@ -112,7 +114,6 @@ September 2005 -- September 2007   <br />
 - Sumreddee, P., **S. Toghiani**, S. Aggrey, and R. Rekaya. **Joint genome-wide association analysis of continuous and discrete traits**. *American Society of Animal Science Annual Meeting*, Baltimore, Maryland, 2017.
 - **Toghiani, S**., L. Chang, and R. Rekaya. **Genome wide association in presence of high-density marker panels and genotyped causal variants**. *The Allied Genetics Conference*, Orlando, Florida, 2016.
 - **Toghiani, S**., and R. Rekaya. **Multi-generational imputation of SNP genotypes and accuracy of genomic selection**. *Joint ADSA/ASAS Annual Meeting*, Orlando, Florida, 2015.
-
 
 ### Oral Presentations
 - **Toghiani, S.**, VanRaden, M., Gaddis, K. L., VandeHaar, M. J., and Tempelman, R. J. (2022). **Phenotypic and genotypic impact of milk components and bodyweight composite on dry matter intake**. In Journal of Dairy Science (Vol. 105, pp. 200-200).

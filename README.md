@@ -104,35 +104,40 @@ September 2005 -- September 2007   <br />
 - **Toghiani Pozveh, S**., Shadparvar, A. A., Shahrbabak, M. M., and Taromsari, M. D. (2009). **Genetic analysis of reproduction traits and their relationship with conformation traits in Holstein cows**. *Livestock Science*, 125(1), 84-87. [https://doi.org/10.1016/j.livsci.2009.02.015](https://doi.org/10.1016/j.livsci.2009.02.015)
 
 ### Poster Presentations 
-- **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **Fst based marker prioritization within QTL regions and its impact on genomic selection accuracy: Insights from a simulation study with high-density marker panels**. *The Allied Genetics Conference*, Washington D.C., March 6 - 10, 2024.
-- **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **A two-stage Fst prioritization approach in the presence of high-density marker panels: a simulation study**. *International Society for Animal Genetics (ISAG) Conference*. Cape Town, South Africa, July 2 - 7, 2023.
+- **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **Prediction Accuracy and Heritability of Net Merit in Jersey Bulls Using FST-Prioritized SNP in the presence of High-Density SNP data**. *Plant and Animal Genome Conference*. San Diego, CA, January 9-14, 2025.
+- **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **Approximating the contribution of non-family related animals to genomic prediction**. *Plant and Animal Genome Conference*. San Diego, CA, January 9-14, 2025.
+- **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **Fst based marker prioritization within QTL regions and its impact on genomic selection accuracy: Insights from a simulation study with high-density marker panels**. *The Allied Genetics Conference*, Washington D.C., March 6-10, 2024.
+- **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **A two-stage Fst prioritization approach in the presence of high-density marker panels: a simulation study**. *International Society for Animal Genetics (ISAG) Conference*. Cape Town, South Africa, July 2-7, 2023.
 - Lozada-Soto, E.A., Tiezzi, F., Jiang, J., Cole, J.B., Vanraden, P.M., **Toghiani, S.**, and Maltecca, C. **Effect of germplasm exchange strategies on genetic gain and diversity in dairy stud populations**. Proc. The European Federation of Animal Science (EAAP) Congress. 2023; pp. 403.
-- Sumreddee, P., **Toghiani, S.**, Hay, E., Aggrey, S. E., and Rekaya, R. **PSXII-29 Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches**. *Journal of Animal Science*, Volume 98, Issue Supplement_4, November 2020, Pages 247--248.
-- **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A. J. **Genotype by environment interaction in response to cold stress in a composite beef cattle breed**. *Plant and Animal Genome XXVIII Conference*, San Diego, CA, January 11 - 15, 2020.
-- Sumreddee, P., **Toghiani, S**., Hay, E., Roberts, A., Aggrey, S. E., and Rekaya, R. **Runs of homozygosity and analysis of inbreeding depression**. *Plant and Animal Genome XXVIII Conference*. San Diego, CA, January 11 - 15, 2020.
-- Chang, LY., **S. Toghiani**, S. Aggrey, and R. Rekaya. **A weighted genomic relationship matrix based on Fst prioritized SNPs for genomic selection**. *American Society of Animal Science Annual Meeting*, Austin, Texas, 2019.
-- Rekaya, R., **Toghiani, S**., Sumreddee, P., Ling, A., and Aggrey, S. (2018). **Multivariate genome wide association for continuous and discrete responses using multivariate Bernoulli prior**. *Journal of Animal Science*, 96(suppl_3), 126-126.
-- Sumreddee, P., **Toghiani, S.**, Aggrey, S. E., and Rekaya, R. (2017).**Joint genome-wide association analysis of continuous and discrete traits**. *Journal of Animal Science*, 95(suppl_4), 104-105.
-- Sumreddee, P., **S. Toghiani**, S. Aggrey, and R. Rekaya. **Joint genome-wide association analysis of continuous and discrete traits**. *American Society of Animal Science Annual Meeting*, Baltimore, Maryland, 2017.
+- Sumreddee, P., **Toghiani, S**., Hay, E., Aggrey, S. E., and Rekaya, R. **Partitioning of Inbreeding Depression using Pedigree and Genomic Approaches**. *Virtual ASAS-CSAS Annual Meeting*, July 19-23, 2020. 
+- **Toghiani, S**., Hay, E., Fragomeni, B., Rekaya, R., and Roberts, A. J. **Genotype by environment interaction in response to cold stress in a composite beef cattle breed**. *Plant and Animal Genome Conference*. San Diego, CA, January 11-15, 2020.
+- Sumreddee, P., **Toghiani, S**., Hay, E., Roberts, A., Aggrey, S. E., and Rekaya, R. **Runs of homozygosity and analysis of inbreeding depression**. *ASAS-CSAS Annual Meeting*, Austin, TX, July 8-11, 2019.
+- Chang, LY., **Toghiani, S**., Aggrey, S., and Rekaya, R. **A weighted genomic relationship matrix based on Fst prioritized SNPs for genomic selection**. *ASAS-CSAS Annual Meeting*, Austin, TX, July 8-11, 2019.
+- Sumreddee, P., **S. Toghiani**, Hay, E., Ling, A.,  Aggrey, S. E., and Rekaya, R. **Inbreeding depression in a Hereford beef cattle population using the pedigree and genomic information**. *ASAS-CSAS Annual Meeting*, Vancouver, Canada, July 5-8, 2018.
+- Sumreddee, P., **Toghiani, S.**, Aggrey, S. E., and Rekaya, R. **Joint genome-wide association analysis of continuous and discrete traits**. *Joint ADSA-ASAS-CSAS Annual Meeting*, Baltimore, MD, July 08-13, 2017.
+- Sumreddee, P., **S. Toghiani**, S. Aggrey, and R. Rekaya. **Joint genome-wide association analysis of continuous and discrete traits**. *Joint ADSA-ASAS-CSAS Annual Meeting*, Baltimore, MD, July 08-13, 2017.
 - **Toghiani, S**., L. Chang, and R. Rekaya. **Genome wide association in presence of high-density marker panels and genotyped causal variants**. *The Allied Genetics Conference*, Orlando, Florida, 2016.
 - **Toghiani, S**., and R. Rekaya. **Multi-generational imputation of SNP genotypes and accuracy of genomic selection**. *Joint ADSA/ASAS Annual Meeting*, Orlando, Florida, 2015.
 
 ### Oral Presentations
-- **Toghiani, S.**, VanRaden, M., Gaddis, K. L., VandeHaar, M. J., and Tempelman, R. J. (2022). **Phenotypic and genotypic impact of milk components and bodyweight composite on dry matter intake**. In Journal of Dairy Science (Vol. 105, pp. 200-200).
+- **Toghiani, S.**, VanRaden, P. M., Null, D. J., Miles, A. M., and Van Tassell, C. P. **Validation of genomic prediction for economic traits in heifers across 5 US dairy breeds**. *ADSA annual meeting*, West Palm Beach, FL, June 16–19, 2024.
+- **Toghiani, S.**, VanRaden, M., Gaddis, K. L., VandeHaar, M. J., and Tempelman, R. J. **Phenotypic and genotypic impact of milk components and bodyweight composite on dry matter intake**. *ADSA annual meeting*, Kansas City, MO, June 19-22, 2022
 - **Toghiani, S.**, P. VanRaden. **National Index Correlations and Expected vs. Actual Use of Foreign Sires**. Interbull Virtual Conference, 2021, Leeuwarden, The Netherlands.
-- **Toghiani, S.**, Chang, L. Y., Hay, E. H., Roberts, A. J., Aggrey, S. E., and Rekaya, R. (2019). **330 A hybrid model for genomic selection using prioritized SNPs based on FST scores in the presence of non-genotyped animals**. Journal of Animal Science, 97(Suppl 3), 51.
-- Chang, L. Y., **Toghiani, S.**, Aggrey, S. E., and Rekaya, R. (2017). **Increasing accuracy of genomic selection in presence of high-density marker panels through the prioritization of relevant polymorphisms**. Journal of Animal Science, 95(suppl_4), 91-92.
-- **Toghiani, S.**, Chang, L. Y., Aggrey, S. E., and Rekaya, R. (2017). **A hybrid of prioritized SNP and polygenetic effect method for implementation of genomic selection**. Journal of Animal Science, 95(supplement4), 92-92.
-- Chang, L. Y., **Toghiani, S.**, Aggrey, S. E., and Rekaya, R. (2016). **High density marker panels, SNPs prioritizing and accuracy of genomic selection**. Journal of Animal Science, 94(suppl_5), 141-142.
-- **Toghiani, S.**, Chang, L. Y., Aggrey, S. E., and Rekaya, R. (2016). **SNP filtering using Fst and implications for genome wide association and phenotype prediction**. Journal of Animal Science, 94(suppl_5), 143-143.
+- **Toghiani, S.**, Chang, L. Y., Hay, E. H., Roberts, A. J., Aggrey, S. E., and Rekaya, R. **A hybrid model for genomic selection using prioritized SNPs based on FST scores in the presence of non-genotyped animals**. *ASAS-CSAS Annual Meeting*, Austin, TX, July 8-11, 2019.
+- Rekaya, R., **Toghiani, S**., Sumreddee, P., Ling, A., and Aggrey, S. **Multivariate genome wide association for continuous and discrete responses using multivariate Bernoulli prior**. *ASAS-CSAS Annual Meeting*, Vancouver, Canada, July 5-8, 2018.
+- Chang, L. Y., **Toghiani, S.**, Aggrey, S. E., and Rekaya, R. **Increasing accuracy of genomic selection in presence of high-density marker panels through the prioritization of relevant polymorphisms**. Joint ADSA-ASAS-CSAS Annual Meeting, Baltimore, MD, July 08-13, 2017.
+- **Toghiani, S.**, Chang, L. Y., Aggrey, S. E., and Rekaya, R. **A hybrid of prioritized SNP and polygenetic effect method for implementation of genomic selection**. Joint ADSA-ASAS-CSAS Annual Meeting, Baltimore, MD, July 08-13, 2017.
+- Chang, L. Y., **Toghiani, S.**, Aggrey, S. E., and Rekaya, R. **High density marker panels, SNPs prioritizing and accuracy of genomic selection**. Joint ADSA-ASAS-CSAS Annual Meeting, Salt Lake City, UT, July 19–23, 2016.
+- **Toghiani, S.**, Chang, L. Y., Aggrey, S. E., and Rekaya, R. **SNP filtering using Fst and implications for genome wide association and phenotype prediction**. Joint ADSA-ASAS-CSAS Annual Meeting, Salt Lake City, UT, July 19–23, 2016.
 
 ### Book Chapters
 - **Toghiani, S**. (2012). **Quantitative Genetic Application in the Selection Process for Livestock Production**. In J. Khalid (Ed.), Livestock Production (pp. Ch. 1). IntechOpen. [ https://doi.org/10.5772/51027](https://doi.org/10.5772/51027)
 
 ## Editorial Activities
 - Special issue Editor for Frontiers in Genetics -- Livestock Genomics section: <a href="https://www.frontiersin.org/research-topics/24065/reducing-the-environmental-footprint-of-livestock-through-genomic-selection" target="_blank">Reducing the Environmental Footprint of Livestock Through Genomic Selection</a>.
-- Editorial Board of Frontiers in Genetics as a Review Editor Livestock Genomics 
 - Special issue Editor for animals (MDPI) journal -- Animal System and Management section: <a href="https://www.mdpi.com/journal/animals/special_issues/R30E30B38R" target="_blank">Animal Production in the Artificial Intelligence Era: Advances and Applications</a>.
+- Editorial Board member of Frontiers in Genetics for Livestock Genomics
+- Editorial Board member of BMC Genomic Journal
   
 ## Honors and Awards
 - **USDA Employee Performance Award**: Recipient of the monetary award in 2021 for contributing to the evaluation of international selection indices and the revision of the national selection index (NM$) to better account for feed intake associated with milk production and body weight traits in dairy cattle. Both research topics have been of wide interest to breeding companies, and national and international consumers of dairy products and primarily will benefit them for the foreseeable future. 

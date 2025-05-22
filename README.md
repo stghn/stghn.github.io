@@ -75,6 +75,7 @@ September 2005 -- September 2007   <br />
 
 ## Publications
 ### Journal Publications and Conference Proceedings 
+- **Toghiani S.**, Aggrey, S.E., and Rekaya, R. (2025). **FST-based marker prioritization within quantitative trait loci regions and its impact on genomic selection accuracy: insights from a simulation study with high-density marker panels for bovines**. Genes, 16(5):563. [https://doi.org/10.3390/genes16050563](https://doi.org/10.3390/genes16050563) 
 - **Toghiani, S.**, VanRaden, P. M., Null, D. J., Miles, A. M., and Van Tassell, C. P. (2024). **Validating genomic predictions for economic traits in purebred US dairy heifers**. Journal of Dairy Science. [https://doi.org/10.3168/jds.2024-25267](https://doi.org/10.3168/jds.2024-25267)
 - **Toghiani, S.**, VanRaden, P. M., VandeHaar, M. J., Baldwin, R. L., Weigel, K. A., White, H. M., Peñagaricano, F., Koltes, J.E., Santos, J.E.P., Parker Gaddis, K.L. and Tempelman, R. J. (2024). **Dry matter intake in US Holstein cows: exploring the genomic and phenotypic impact of milk components and body weight composite**. Journal of Dairy Science, 107(9), 7009-7021. [https://doi.org/10.3168/jds.2023-24296](https://doi.org/10.3168/jds.2023-24296)
 - Lozada-Soto, E. A., Gaddis, K. L. P., Tiezzi, F., Jiang, J., Ma, L., **Toghiani, S.**, VanRaden, P. M., and Maltecca, C. (2024). **Inbreeding depression for producer-recorded udder, metabolic, and reproductive diseases in US dairy cattle**. Journal of Dairy Science, 107(5), 3032-3046. [https://doi.org/10.3168/jds.2023-23909](https://doi.org/10.3168/jds.2023-23909)
@@ -104,7 +105,7 @@ September 2005 -- September 2007   <br />
 - **Toghiani Pozveh, S**., Shadparvar, A. A., Shahrbabak, M. M., and Taromsari, M. D. (2009). **Genetic analysis of reproduction traits and their relationship with conformation traits in Holstein cows**. *Livestock Science*, 125(1), 84-87. [https://doi.org/10.1016/j.livsci.2009.02.015](https://doi.org/10.1016/j.livsci.2009.02.015)
 
 ### Poster Presentations 
-- **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **Prediction Accuracy and Heritability of Net Merit in Jersey Bulls Using FST-Prioritized SNP in the presence of High-Density SNP data**. *Plant and Animal Genome Conference*. San Diego, CA, January 9-14, 2025.
+- **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **Prediction accuracy and heritability of Net Merit in jersey bulls using FST-prioritized SNP in the presence of high-density SNP data**. *Plant and Animal Genome Conference*. San Diego, CA, January 9-14, 2025.
 - **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **Approximating the contribution of non-family related animals to genomic prediction**. *Plant and Animal Genome Conference*. San Diego, CA, January 9-14, 2025.
 - **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **Fst based marker prioritization within QTL regions and its impact on genomic selection accuracy: Insights from a simulation study with high-density marker panels**. *The Allied Genetics Conference*, Washington D.C., March 6-10, 2024.
 - **Toghiani, S**., Aggrey, S. E., and Rekaya, R. **A two-stage Fst prioritization approach in the presence of high-density marker panels: a simulation study**. *International Society for Animal Genetics (ISAG) Conference*. Cape Town, South Africa, July 2-7, 2023.
@@ -145,7 +146,7 @@ September 2005 -- September 2007   <br />
 - Department of Animal and Dairy Science (University of Georgia) awarded a **Master Graduate Assistantship** in 2013-2015 
 
 ## Computer Skills
-**Programming:** Fortran, SAS, R, Python, Unix shell scripting, Git and Github  <br />
+**Programming:** Fortran, SAS, R, Python, Unix shell scripting, Git, and Github  <br />
 **Applications:** MS Office (Word, Excel, PowerPoint, Outlook)  <br />
 **Analysis Tools:** **Plink** *(GWAS analysis software)*, **Gensel** *(Bayesian method for GS/GWAS analysis)*, **Blupf90 family** *(Genetic/Genomic evaluation)*, **QMsim** *(QTL and marker simulator for livestock populations)*, **FImpute** *(Genotype imputation tool)*,**Bioconductor** *(Statistical and graphical methods for analyzing genomic data)*, **Admixture** *(A tool to estimate individual ancestry from SNP genotype datasets)*
 

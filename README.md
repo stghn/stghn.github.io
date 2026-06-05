@@ -19,7 +19,9 @@
 
 ## Profile
 <p align="justify">
-Sajjad is a Research Geneticist (Animals) at <a href="https://www.ars.usda.gov/people-locations/person?person-id=55652" target="_blank">USDA in Animal Genomics and Improvement Laboratory</a> with a background in animal breeding and genetics. His areas of interest are focused on the application of genomic information in livestock including genomic selection, genome-wide association studies, genotype imputation, and population genomics. His goals are to conduct research using cutting-edge genomic research in animal breeding to develop decision-making tools and improved algorithms to enhance animal health and welfare, environmental sustainability, and climate adaptability, and efficiently enhance productivity for producers. 
+Sajjad is currently working for <a href="https://www.ars.usda.gov/people-locations/person?person-id=55652" target="_blank">USDA in Animal Genomics and Improvement Laboratory</a> at Beltsville, Maryland, as a Research Geneticist with a background in animal breeding and genetics. His research focuses on applying cutting-edge genomic technology to animal breeding to develop decision-making tools and advanced algorithms that improve dairy cattle health and welfare, sustainability, climatic adaptability, and productivity in a cost-effective way for producers. 
+	
+🧬Core Expertise: Quantitative Genetics | Genomic Selection | Population Genetics | Genome-wide Association Studies | Genetic & Genomic Evaluation | Statistical Genetics & Genomics
 </p>
 
 ## Education
@@ -75,6 +77,10 @@ September 2005 -- September 2007   <br />
 
 ## Publications
 ### Journal Publications and Conference Proceedings 
+- Hartono, E., Willems, O.W., Bab, X., Wood, B.J., **Toghiani, S.**, Rekaya, R. and Aggrey, S.E. (2026). **Enhancing genomic selection for reproductive traits in Turkeys through SNP prioritization using the fixation index**. Poultry Science. 105(2):106213. [https://doi.org/10.1016/j.psj.2025.106213](https://doi.org/10.1016/j.psj.2025.106213) 
+- Wang, J., Gao, Y., **Toghiani, S.**, Cole, J. B., Maltecca, C., Ma, L., Jiang, J. (2025). **GWAS and fine-mapping using sequences identify candidate genes for 30 complex traits in 50,309 Holstein Bulls**. Journal of Dairy Science. 108(11):12506-12518. [https://doi.org/10.3168/jds.2025-27058](https://doi.org/10.3168/jds.2025-27058)
+- Xu, C., Maltecca, C., Tiezzi, F., Cole, J. B., **Toghiani, S.**, Ma, L., Jiang, J. (2025). **Genomic partition of inbreeding depression in production traits of U.S. Jersey cattle using functional annotations**. Journal of Dairy Science. 108(10):11254-11268. [https://doi.org/10.3168/jds.2025-26738](https://doi.org/10.3168/jds.2025-26738)
+- Neupane, M., Gaddis, K.L.P., **Toghiani, S.**, Miles, A.M., Graham, J.R., Burchard, J.F., Dürr, J.W., Cole, J.B., O'Connell, J.R., Van Tassell, C.P. and VanRaden, P.M. (2025). **Improving dairy calf health through inclusion of diarrhea and respiratory health data into a US national genetic evaluation**. Journal of Dairy Science. 108(10):11164-11172. [https://doi.org/10.3168/jds.2025-26497](https://doi.org/10.3168/jds.2025-26497) 
 - **Toghiani S.**, Aggrey, S.E., and Rekaya, R. (2025). **FST-based marker prioritization within quantitative trait loci regions and its impact on genomic selection accuracy: insights from a simulation study with high-density marker panels for bovines**. Genes, 16(5):563. [https://doi.org/10.3390/genes16050563](https://doi.org/10.3390/genes16050563) 
 - **Toghiani, S.**, VanRaden, P. M., Null, D. J., Miles, A. M., and Van Tassell, C. P. (2024). **Validating genomic predictions for economic traits in purebred US dairy heifers**. Journal of Dairy Science. [https://doi.org/10.3168/jds.2024-25267](https://doi.org/10.3168/jds.2024-25267)
 - **Toghiani, S.**, VanRaden, P. M., VandeHaar, M. J., Baldwin, R. L., Weigel, K. A., White, H. M., Peñagaricano, F., Koltes, J.E., Santos, J.E.P., Parker Gaddis, K.L. and Tempelman, R. J. (2024). **Dry matter intake in US Holstein cows: exploring the genomic and phenotypic impact of milk components and body weight composite**. Journal of Dairy Science, 107(9), 7009-7021. [https://doi.org/10.3168/jds.2023-24296](https://doi.org/10.3168/jds.2023-24296)
